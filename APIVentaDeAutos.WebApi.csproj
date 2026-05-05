@@ -13,8 +13,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\APIVentaDeAutos.Application\APIVentaDeAutos.Application.csproj" />
-    <ProjectReference Include="..\APIVentaDeAutos.Infrastructure\APIVentaDeAutos.Infrastructure.csproj" />
+    <ProjectReference Include="..\source\repos\APIVentaDeAutos.Application\APIVentaDeAutos.Application.csproj" />
+    <ProjectReference Include="..\source\repos\APIVentaDeAutos.Domain\APIVentaDeAutos.Domain.csproj" />
+    <ProjectReference Include="..\source\repos\APIVentaDeAutos.Infrastructure\APIVentaDeAutos.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
