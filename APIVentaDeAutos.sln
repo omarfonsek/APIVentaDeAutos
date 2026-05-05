@@ -11,6 +11,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIVentaDeAutos.Infrastruct
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIVentaDeAutos.Application", "..\source\repos\APIVentaDeAutos.Application\APIVentaDeAutos.Application.csproj", "{706BE132-43FB-4482-8892-489980241979}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{7F258CD1-3A82-4996-9593-D780ED277777}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{11F380CF-FE91-4943-8C25-AA4C72BBFF62}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{0A5970E6-FA69-4C73-B72E-FCB23B130837}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebApi", "WebApi", "{8D95BB28-1B7A-424D-8D7B-890D52B80827}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +44,12 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A18EBAEE-B305-48B8-B086-69C08BA54C56} = {8D95BB28-1B7A-424D-8D7B-890D52B80827}
+		{B4FFD57A-C748-4E80-911A-6520A1816107} = {11F380CF-FE91-4943-8C25-AA4C72BBFF62}
+		{DEF7D8CB-FFA2-4B9F-AC1A-1A7A2F1A6CB1} = {0A5970E6-FA69-4C73-B72E-FCB23B130837}
+		{706BE132-43FB-4482-8892-489980241979} = {7F258CD1-3A82-4996-9593-D780ED277777}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {80939C44-71CB-4BF5-ACFD-D02256D6CCC7}
