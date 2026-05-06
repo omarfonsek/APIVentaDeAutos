@@ -15,6 +15,9 @@
   <ItemGroup>
     <ProjectReference Include="..\APIVentaDeAutos.Application\APIVentaDeAutos.Application.csproj" />
     <ProjectReference Include="..\APIVentaDeAutos.Infrastructure\APIVentaDeAutos.Infrastructure.csproj" />
+    <ProjectReference Include="..\Application\APIVentaDeAutos.Application.csproj" />
+    <ProjectReference Include="..\Domain\APIVentaDeAutos.Domain.csproj" />
+    <ProjectReference Include="..\Infrastructure\APIVentaDeAutos.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
