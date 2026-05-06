@@ -1,0 +1,11 @@
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\APIVentaDeAutos.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\APIVentaDeAutos.Domain.AssemblyInfoInputs.cache
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\APIVentaDeAutos.Domain.AssemblyInfo.cs
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\APIVentaDeAutos.Domain.csproj.CoreCompileInputs.cache
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\bin\Debug\net8.0\APIVentaDeAutos.Domain.deps.json
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\bin\Debug\net8.0\APIVentaDeAutos.Domain.dll
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\bin\Debug\net8.0\APIVentaDeAutos.Domain.pdb
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\APIVentaDeAutos.Domain.dll
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\refint\APIVentaDeAutos.Domain.dll
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\APIVentaDeAutos.Domain.pdb
+C:\Users\omarf\source\repos\APIVentaDeAutos.Domain\obj\Debug\net8.0\ref\APIVentaDeAutos.Domain.dll

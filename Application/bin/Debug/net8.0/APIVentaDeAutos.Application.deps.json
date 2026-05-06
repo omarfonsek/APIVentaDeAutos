@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "APIVentaDeAutos.Application/1.0.0": {
+        "dependencies": {
+          "APIVentaDeAutos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "APIVentaDeAutos.Application.dll": {}
+        }
+      },
+      "APIVentaDeAutos.Domain/1.0.0": {
+        "runtime": {
+          "APIVentaDeAutos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "APIVentaDeAutos.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "APIVentaDeAutos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
