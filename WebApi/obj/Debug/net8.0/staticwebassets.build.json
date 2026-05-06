@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GVZn7A66GjYqv3jt3nuEPR3YumQWUXUARTNpSZRzbtQ=",
+  "Source": "APIVentaDeAutos.WebApi",
+  "BasePath": "_content/APIVentaDeAutos.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
